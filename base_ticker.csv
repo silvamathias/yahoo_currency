@@ -1,0 +1,470 @@
+,papel,empresa,setor,subsetor
+0,TTEN3,3TENTOS ON NM,Agropecuária,Agricultura
+1,AGXY3,AGROGALAXY ON NM,Agropecuária,Agricultura
+2,SOJA3,BOA SAFRA ON NM,Agropecuária,Agricultura
+3,AGRO3,BRASILAGRO ON NM,Agropecuária,Agricultura
+4,FRTA3,POMIFRUTAS ON NM,Agropecuária,Agricultura
+5,SLCE3,SLC Agricola ON NM,Agropecuária,Agricultura
+6,AMBP3,AMBIPAR ON NM,Água e Saneamento,Água e Saneamento
+7,CSMG3,COPASA MG ON,Água e Saneamento,Água e Saneamento
+8,ORVR3,ORIZON ON NM,Água e Saneamento,Água e Saneamento
+9,SBSP3,SABESP ON NM,Água e Saneamento,Água e Saneamento
+10,SAPR3,SANEPAR ON,Água e Saneamento,Água e Saneamento
+11,SAPR4,SANEPAR PN,Água e Saneamento,Água e Saneamento
+12,SAPR11,SANEPAR UNT N2,Água e Saneamento,Água e Saneamento
+13,JALL3,JALLESMACHAD ON NM,Alimentos Processados,Açucar e Alcool
+14,SMTO3,SAO MARTINHO ON NM,Alimentos Processados,Açucar e Alcool
+15,CAML3,CAMIL ON NM,Alimentos Processados,Alimentos Diversos
+16,JOPA3,JOSAPAR S/A ON,Alimentos Processados,Alimentos Diversos
+17,JOPA4,JOSAPAR S/A PN,Alimentos Processados,Alimentos Diversos
+18,MDIA3,M.DIASBRANCO ON NM,Alimentos Processados,Alimentos Diversos
+19,BRFS3,BRF Foods ON NM,Alimentos Processados,Carnes e Derivados
+20,BAUH4,EXCELSIOR PN,Alimentos Processados,Carnes e Derivados
+21,JBSS3,JBS ON NM,Alimentos Processados,Carnes e Derivados
+22,MRFG3,Marfrig ON NM,Alimentos Processados,Carnes e Derivados
+23,BEEF3,Minerva ON NM,Alimentos Processados,Carnes e Derivados
+24,MNPR3,MINUPAR ON,Alimentos Processados,Carnes e Derivados
+25,MYPK3,IOCHPE-MAXION ON,Automóveis e Motocicletas,Automóveis e Motocicletas
+26,LEVE3,MAHLE METAL LEVE ON,Automóveis e Motocicletas,Automóveis e Motocicletas
+27,PLAS3,PLASCAR PARTICIPAÇÕES INDUSTRIAIS S.A ON,Automóveis e Motocicletas,Automóveis e Motocicletas
+28,ABEV3,AMBEV S/A ON,Bebidas,Cervejas e Refrigerantes
+29,ALLD3,ALLIED ON NM,Comércio,Eletrodomésticos
+30,MGLU3,MAGAZ LUIZA ON NM,Comércio,Eletrodomésticos
+31,VIIA3,VIA ON,Comércio,Eletrodomésticos
+32,EPAR3,EMBPAR S/A ON,Comércio,Material de Transporte
+33,WLMM3,WLM ON,Comércio,Material de Transporte
+34,WLMM4,WLM PN,Comércio,Material de Transporte
+35,AMER3,AMERICANAS ON,Comércio,Produtos Diversos
+36,SLED3,EDITORA SARAIVA ON,Comércio,Produtos Diversos
+37,SLED4,EDITORA SARAIVA PN,Comércio,Produtos Diversos
+38,ESPA3,ESPACOLASER ON NM,Comércio,Produtos Diversos
+39,SBFG3,GRUPO SBF ON,Comércio,Produtos Diversos
+40,LAME3,LOJAS AMERICANAS S.A. ON,Comércio,Produtos Diversos
+41,LAME4,LOJAS AMERICANAS S.A. PN,Comércio,Produtos Diversos
+42,PETZ3,PETZ ON NM,Comércio,Produtos Diversos
+43,LJQQ3,QUERO-QUERO ON NM,Comércio,Produtos Diversos
+44,ARZZ3,AREZZO CO ON NM,Comércio,"Tecidos, Vestuário e Calçados"
+45,CEAB3,CEA MODAS ON NM,Comércio,"Tecidos, Vestuário e Calçados"
+46,CGRA3,GRAZZIOTIN ON,Comércio,"Tecidos, Vestuário e Calçados"
+47,CGRA4,GRAZZIOTIN PN,Comércio,"Tecidos, Vestuário e Calçados"
+48,SOMA3,GRUPO SOMA ON NM,Comércio,"Tecidos, Vestuário e Calçados"
+49,GUAR3,GUARARAPES CONFECÇÕES ON,Comércio,"Tecidos, Vestuário e Calçados"
+50,LLIS3,LE LIS BLANC DEUX ON,Comércio,"Tecidos, Vestuário e Calçados"
+51,AMAR3,LOJAS MARISA ON NM,Comércio,"Tecidos, Vestuário e Calçados"
+52,LREN3,RENNER ON,Comércio,"Tecidos, Vestuário e Calçados"
+53,ASAI3,ASSAI ON NM,Comércio e Distribuição,Alimentos
+54,CRFB3,CARREFOUR BR ON NM,Comércio e Distribuição,Alimentos
+55,GMAT3,GRUPO MATEUS ON NM,Comércio e Distribuição,Alimentos
+56,PCAR3,PÃO DE AÇÚCAR ON,Comércio e Distribuição,Alimentos
+57,BLAU3,BLAU ON NM,Comércio e Distribuição,Medicamentos e Outros Produtos
+58,DMVF3,D1000VFARMA ON NM,Comércio e Distribuição,Medicamentos e Outros Produtos
+59,HYPE3,HYPERA ON,Comércio e Distribuição,Medicamentos e Outros Produtos
+60,PGMN3,PAGUE MENOS ON NM,Comércio e Distribuição,Medicamentos e Outros Produtos
+61,PNVL3,PANVEL FARMÁCIAS ON,Comércio e Distribuição,Medicamentos e Outros Produtos
+62,PFRM3,PROFARMA ON NM,Comércio e Distribuição,Medicamentos e Outros Produtos
+63,RADL3,RAIADROGASIL ON,Comércio e Distribuição,Medicamentos e Outros Produtos
+64,VVEO3,VIVEO ON NM,Comércio e Distribuição,Medicamentos e Outros Produtos
+65,INTB3,INTELBRAS ON NM,Computadores e Equipamentos,Computadores e Equipamentos
+66,MLAS3,MULTILASER ON NM,Computadores e Equipamentos,Computadores e Equipamentos
+67,POSI3,POSITIVO INF ON NM,Computadores e Equipamentos,Computadores e Equipamentos
+68,AVLL3,ALPHAVILLE ON NM,Construção Civil,Incorporações
+69,CRDE3,CR2 ON,Construção Civil,Incorporações
+70,CURY3,CURY S/A ON NM,Construção Civil,Incorporações
+71,CYRE3,CYRELA BRAZIL REALTY PN,Construção Civil,Incorporações
+72,DIRR3,Direcional Engenharia ON NM,Construção Civil,Incorporações
+73,EVEN3,Even ON NM,Construção Civil,Incorporações
+74,EZTC3,EZTec ON NM,Construção Civil,Incorporações
+75,GFSA3,GAFISA ON,Construção Civil,Incorporações
+76,HBOR3,Helbor ON,Construção Civil,Incorporações
+77,JHSF3,JHSF Part ON NM,Construção Civil,Incorporações
+78,JFEN3,JOÃO FORTES ENGENHARIA S.A. ON,Construção Civil,Incorporações
+79,LAVV3,LAVVI ON NM,Construção Civil,Incorporações
+80,MELK3,MELNICK ON NM,Construção Civil,Incorporações
+81,MTRE3,MITRE REALTY ON NM,Construção Civil,Incorporações
+82,MDNE3,MOURA DUBEUX ON NM,Construção Civil,Incorporações
+83,MRVE3,MRV ON NM,Construção Civil,Incorporações
+84,PDGR3,PDG REALT ON NM,Construção Civil,Incorporações
+85,PLPL3,PLANOEPLANO ON NM,Construção Civil,Incorporações
+86,RDNI3,RNI ON NM,Construção Civil,Incorporações
+87,RSID3,ROSSI RESIDENCIAL ON N1,Construção Civil,Incorporações
+88,TCSA3,TECNISA ON NM,Construção Civil,Incorporações
+89,TEND3,Tenda ON NM,Construção Civil,Incorporações
+90,TRIS3,Trisul ON NM,Construção Civil,Incorporações
+91,VIVR3,VIVER ON NM,Construção Civil,Incorporações
+92,AZEV3,AZEVEDO & TRAVASSOS ON,Construção e Engenharia,Construção Pesada
+93,AZEV4,AZEVEDO & TRAVASSOS PN,Construção e Engenharia,Construção Pesada
+94,SOND5,SONDOTECNICA S/A. PNA,Construção e Engenharia,Engenharia Consultiva
+95,TCNO3,TECNOSOLO S/A ON,Construção e Engenharia,Engenharia Consultiva
+96,TCNO4,TECNOSOLO S/A PN,Construção e Engenharia,Engenharia Consultiva
+97,ETER3,ETERNIT ON,Construção e Engenharia,Produtos para Construção
+98,HAGA4,HAGA ON,Construção e Engenharia,Produtos para Construção
+99,HAGA3,HAGA ON,Construção e Engenharia,Produtos para Construção
+100,PTBL3,PORTOBELLO S/A ON,Construção e Engenharia,Produtos para Construção
+101,MILS3,MILLS ON NM,Construção e Engenharia,Serviços Diversos
+102,ARML3,ARMAC ON NM,Diversos,Aluguel de carros
+103,RENT3,LOCALIZA RENT A CAR ON,Diversos,Aluguel de carros
+104,LCAM3,LOCAMERICA ON NM,Diversos,Aluguel de carros
+105,MOVI3,MOVIDA ON NM,Diversos,Aluguel de carros
+106,VAMO3,VAMOS ON NM,Diversos,Aluguel de carros
+107,DOTZ3,DOTZ SA ON NM,Diversos,Programas de Fidelização
+108,ANIM3,ANIMA ON NM,Diversos,Serviços Educacionais
+109,BAHI3,BAHEMA ON,Diversos,Serviços Educacionais
+110,BAHI11,BAHEMA PRB,Diversos,Serviços Educacionais
+111,COGN3,COGNA ON,Diversos,Serviços Educacionais
+112,CSED3,CRUZEIRO EDU ON NM,Diversos,Serviços Educacionais
+113,SEER3,SER EDUCA ON NM,Diversos,Serviços Educacionais
+114,YDUQ3,YDUQS PART ON,Diversos,Serviços Educacionais
+115,MTIG4,IGUAÇU PN,Embalagens,Embalagens
+116,AESB3,AES BRASIL ON NM,Energia Elétrica,Energia Elétrica
+117,AFLT3,AFLUENTE T ON,Energia Elétrica,Energia Elétrica
+118,ALUP3,ALUPAR ON N2,Energia Elétrica,Energia Elétrica
+119,ALUP4,ALUPAR PN N2,Energia Elétrica,Energia Elétrica
+120,ALUP11,ALUPAR UNT N2,Energia Elétrica,Energia Elétrica
+121,CBEE3,AMPLA ENERG ON,Energia Elétrica,Energia Elétrica
+122,CEBR3,CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA ON,Energia Elétrica,Energia Elétrica
+123,CEBR5,CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA PNA,Energia Elétrica,Energia Elétrica
+124,CEBR6,CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA PNB,Energia Elétrica,Energia Elétrica
+125,CEED3,CEEE-D ON N1,Energia Elétrica,Energia Elétrica
+126,CLSC3,CELESC ON N2,Energia Elétrica,Energia Elétrica
+127,CLSC4,CELESC PN N2,Energia Elétrica,Energia Elétrica
+128,CEPE5,CELPE PNA,Energia Elétrica,Energia Elétrica
+129,EQMA3B,CEMAR ON MB,Energia Elétrica,Energia Elétrica
+130,CMIG3,CEMIG ON N1,Energia Elétrica,Energia Elétrica
+131,CMIG4,CEMIG PN N1,Energia Elétrica,Energia Elétrica
+132,CESP3,CESP CIA ENERGETICA SAO PAULO ON,Energia Elétrica,Energia Elétrica
+133,CESP5,CESP CIA ENERGETICA SAO PAULO PNA,Energia Elétrica,Energia Elétrica
+134,CESP6,CESP CIA ENERGETICA SAO PAULO PNB,Energia Elétrica,Energia Elétrica
+135,COCE3,CIA ENERG CEARA - COELCE ON,Energia Elétrica,Energia Elétrica
+136,COCE5,CIA ENERG CEARA - COELCE PNA,Energia Elétrica,Energia Elétrica
+137,CEEB3,COELBA ON,Energia Elétrica,Energia Elétrica
+138,CPLE3,COPEL ON,Energia Elétrica,Energia Elétrica
+139,CPLE5,COPEL PNA,Energia Elétrica,Energia Elétrica
+140,CPLE6,COPEL PNB,Energia Elétrica,Energia Elétrica
+141,CPLE11,COPEL UNT,Energia Elétrica,Energia Elétrica
+142,CSRN3,COSERN ON,Energia Elétrica,Energia Elétrica
+143,CSRN5,COSERN PNA,Energia Elétrica,Energia Elétrica
+144,CSRN6,COSERN PNB,Energia Elétrica,Energia Elétrica
+145,CPFE3,CPFL ENERGIA S.A. ON,Energia Elétrica,Energia Elétrica
+146,GEPA3,"DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA ON",Energia Elétrica,Energia Elétrica
+147,GEPA4,"DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA PN",Energia Elétrica,Energia Elétrica
+148,ENBR3,EDP ENERGIAS DO BRASIL S/A ON,Energia Elétrica,Energia Elétrica
+149,EKTR3,ELEKTRO ELETRICIDADE E SERVIÇOS S.A. ON,Energia Elétrica,Energia Elétrica
+150,EKTR4,ELEKTRO ELETRICIDADE E SERVIÇOS S.A. PN,Energia Elétrica,Energia Elétrica
+151,ELET3,ELETROBRÁS ON,Energia Elétrica,Energia Elétrica
+152,ELET5,ELETROBRÁS PNA,Energia Elétrica,Energia Elétrica
+153,ELET6,ELETROBRÁS PNB,Energia Elétrica,Energia Elétrica
+154,EMAE4,EMAE PN,Energia Elétrica,Energia Elétrica
+155,ENMT4,ENERGISA MT ON,Energia Elétrica,Energia Elétrica
+156,ENMT3,ENERGISA MT ON,Energia Elétrica,Energia Elétrica
+157,ENGI3,ENERGISA ON,Energia Elétrica,Energia Elétrica
+158,ENGI4,ENERGISA PN,Energia Elétrica,Energia Elétrica
+159,ENGI11,ENERGISA UNT N2,Energia Elétrica,Energia Elétrica
+160,ENEV3,ENEVA ON,Energia Elétrica,Energia Elétrica
+161,EGIE3,	ENGIE BRASIL ON,Energia Elétrica,Energia Elétrica
+162,EGIE3, ENGIE BRASIL ON,Energia Elétrica,Energia Elétrica
+163,EQPA3,EQTL PARA ON,Energia Elétrica,Energia Elétrica
+164,EQPA7,EQTL PARA PNC,Energia Elétrica,Energia Elétrica
+165,EQTL3,EQUATORIAL ENERGIA S.A. ON NM,Energia Elétrica,Energia Elétrica
+166,POWE3,FOCUS ON ON NM,Energia Elétrica,Energia Elétrica
+167,LIPR3,LIGHTPAR ON,Energia Elétrica,Energia Elétrica
+168,LIGT3,LIGHT SA ON,Energia Elétrica,Energia Elétrica
+169,NEOE3,NEOENERGIA ON NM,Energia Elétrica,Energia Elétrica
+170,MEGA3,OMEGAENERGIA ON NM,Energia Elétrica,Energia Elétrica
+171,OMGE3,OMEGA GER ON NM,Energia Elétrica,Energia Elétrica
+172,REDE3,REDE EMPRESAS DE ENERGIA ELÉTRICA S.A. ON,Energia Elétrica,Energia Elétrica
+173,RNEW3,RENOVA ON N2,Energia Elétrica,Energia Elétrica
+174,RNEW4,RENOVA PN N2,Energia Elétrica,Energia Elétrica
+175,RNEW11,RENOVA UNT N2,Energia Elétrica,Energia Elétrica
+176,TAEE3,TAESA ON N2,Energia Elétrica,Energia Elétrica
+177,TAEE4,TAESA PN N2,Energia Elétrica,Energia Elétrica
+178,TAEE11,TAESA UNT,Energia Elétrica,Energia Elétrica
+179,TRPL3,TRANSMISSÃO PAULISTA ON N1,Energia Elétrica,Energia Elétrica
+180,TRPL4,TRANSMISSÃO PAULISTA PN N1,Energia Elétrica,Energia Elétrica
+181,BALM3,BAUMER ON,Equipamentos,Equipamentos
+182,BALM4,BAUMER PN,Equipamentos,Equipamentos
+183,ALSO3,ALIANSCSONAE ON,Exploração de Imóveis,Exploração de Imóveis
+184,BRML3,BR MALLS PARTICIPAÇÔES S/A ON,Exploração de Imóveis,Exploração de Imóveis
+185,BRPR3,BR PROPERTIES ON NM,Exploração de Imóveis,Exploração de Imóveis
+186,HBTS5,CIA HABITASUL PNA,Exploração de Imóveis,Exploração de Imóveis
+187,GSHP3,Generalshopp ON NM,Exploração de Imóveis,Exploração de Imóveis
+188,IGBR3,GRADIENTE ON,Exploração de Imóveis,Exploração de Imóveis
+189,HBRE3,HBR REALTY ON NM,Exploração de Imóveis,Exploração de Imóveis
+190,IGTA3,IGUATEMI ON NM,Exploração de Imóveis,Exploração de Imóveis
+191,IGTI3,IGUATEMI S.A ON N1,Exploração de Imóveis,Exploração de Imóveis
+192,IGTI11,IGUATEMI S.A UNT N1,Exploração de Imóveis,Exploração de Imóveis
+193,JPSA3,JEREISSATI PARTICIPACOES ON,Exploração de Imóveis,Exploração de Imóveis
+194,LOGG3,LOG COM PROP ON NM,Exploração de Imóveis,Exploração de Imóveis
+195,MULT3,Multiplan ON N2,Exploração de Imóveis,Exploração de Imóveis
+196,SCAR3,SÃO CARLOS EMPREEND.E PARTICIPAÇÕES S.A. ON,Exploração de Imóveis,Exploração de Imóveis
+197,SYNE3,SYN PROP TEC ON NM,Exploração de Imóveis,Exploração de Imóveis
+198,BBRK3,BR Brokers ON NM,Exploração de Imóveis,Intermediação Imobiliária
+199,LPSB3,LOPES BRASIL ON NM,Exploração de Imóveis,Intermediação Imobiliária
+200,CEGR3,CEG ON,Gás,Gás
+201,CGAS3,COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS ON,Gás,Gás
+202,CGAS5,COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS PNAS,Gás,Gás
+203,PEAB3,CIA. DE PARTICIPAÇÕES ALIANÇA DA BAHIA ON,Holdings Diversificadas,Holdings Diversificadas
+204,PEAB4,CIA. DE PARTICIPAÇÕES ALIANÇA DA BAHIA PN,Holdings Diversificadas,Holdings Diversificadas
+205,MOAR3,MONTEIRO ARANHA ON,Holdings Diversificadas,Holdings Diversificadas
+206,SIMH3,SIMPAR ON NM,Holdings Diversificadas,Holdings Diversificadas
+207,HOOT4,HOTEIS OTHON S.A. PN,Hoteis e Restaurantes,Hotelaria
+208,BKBR3,BK BRASIL ON NM,Hoteis e Restaurantes,Restaurante e Similares
+209,MEAL3,IMC S/A ON NM,Hoteis e Restaurantes,Restaurante e Similares
+210,ABCB4,ABC Brasil PN N2,Intermediários Financeiros,Bancos
+211,BRIV3,ALFA DE INVESTIMENTO ON,Intermediários Financeiros,Bancos
+212,BRIV4,ALFA DE INVESTIMENTO PN,Intermediários Financeiros,Bancos
+213,RPAD3,ALFA HOLDINGS ON,Intermediários Financeiros,Bancos
+214,RPAD5,ALFA HOLDINGS PNA,Intermediários Financeiros,Bancos
+215,RPAD6,ALFA HOLDINGS PNB,Intermediários Financeiros,Bancos
+216,BMGB4,BANCO BMG PN N1,Intermediários Financeiros,Bancos
+217,BBDC3,BANCO BRADESCO S.A. ON N1,Intermediários Financeiros,Bancos
+218,BBDC4,BANCO BRADESCO S.A. PN N1,Intermediários Financeiros,Bancos
+219,BAZA3,BANCO DA AMAZONIA S.A. ON,Intermediários Financeiros,Bancos
+220,BBAS3,BANCO DO BRASIL S.A. ON,Intermediários Financeiros,Bancos
+221,BNBR3,BANCO DO NORDESTE ON,Intermediários Financeiros,Bancos
+222,BIDI3,BANCO INTER ON N2,Intermediários Financeiros,Bancos
+223,BIDI4,BANCO INTER PN N2,Intermediários Financeiros,Bancos
+224,BIDI11,BANCO INTER UNT N2,Intermediários Financeiros,Bancos
+225,BMIN3,BANCO MERCANTIL DE INVESTIMENTOS SA ON,Intermediários Financeiros,Bancos
+226,BMIN4,BANCO MERCANTIL DE INVESTIMENTOS SA PN,Intermediários Financeiros,Bancos
+227,BMEB3,BANCO MERCANTIL DO BRASIL S/A ON,Intermediários Financeiros,Bancos
+228,BMEB4,BANCO MERCANTIL DO BRASIL S/A PN,Intermediários Financeiros,Bancos
+229,BPAN4,BANCO PAN PN,Intermediários Financeiros,Bancos
+230,BGIP3,BANESE ON,Intermediários Financeiros,Bancos
+231,BGIP4,BANESE PN,Intermediários Financeiros,Bancos
+232,BEES3,BANESTES S/A ON,Intermediários Financeiros,Bancos
+233,BEES4,BANESTES S/A PN,Intermediários Financeiros,Bancos
+234,BRSR3,BANRISUL S/A ON,Intermediários Financeiros,Bancos
+235,BRSR5,BANRISUL S/A PNA,Intermediários Financeiros,Bancos
+236,BRSR6,BANRISUL S/A PNB,Intermediários Financeiros,Bancos
+237,BSLI3,BRB ON,Intermediários Financeiros,Bancos
+238,BSLI4,BRB ON,Intermediários Financeiros,Bancos
+239,BRBI11,BR PARTNERS UNT N2,Intermediários Financeiros,Bancos
+240,BPAC3,BTGP BANCO ON,Intermediários Financeiros,Bancos
+241,BPAC5,BTGP BANCO PNA,Intermediários Financeiros,Bancos
+242,BPAC11,BTGP BANCO UNT,Intermediários Financeiros,Bancos
+243,ITSA3,ITAÚSA ON N1,Intermediários Financeiros,Bancos
+244,ITSA4,ITAÚSA PN N1,Intermediários Financeiros,Bancos
+245,ITUB3,ITAUUNIBANCO ON N1,Intermediários Financeiros,Bancos
+246,ITUB4,ITAUUNIBANCO PN N1,Intermediários Financeiros,Bancos
+247,MODL3,MODALMAIS ON N2,Intermediários Financeiros,Bancos
+248,MODL4,MODALMAIS PN N2,Intermediários Financeiros,Bancos
+249,MODL11,MODALMAIS UNT N2,Intermediários Financeiros,Bancos
+250,PINE4,Pine PN,Intermediários Financeiros,Bancos
+251,SANB3,SANTANDER ON,Intermediários Financeiros,Bancos
+252,SANB4,SANTANDER PN,Intermediários Financeiros,Bancos
+253,SANB11,SANTANDER UNT,Intermediários Financeiros,Bancos
+254,CRIV3,ALFA FINANCEIRA ON,Intermediários Financeiros,Soc. Crédito e Financiamento
+255,CRIV4,ALFA FINANCEIRA PN,Intermediários Financeiros,Soc. Crédito e Financiamento
+256,MERC3,MERCANTIL BRASIL ON,Intermediários Financeiros,Soc. Crédito e Financiamento
+257,MERC4,MERCANTIL BRASIL PN,Intermediários Financeiros,Soc. Crédito e Financiamento
+258,DXCO3,DEXCO ON,Madeira e Papel,Madeira
+259,EUCA3,EUCATEX ON,Madeira e Papel,Madeira
+260,EUCA4,EUCATEX PN,Madeira e Papel,Madeira
+261,RANI3,CELULOSE IRANI ON,Madeira e Papel,Papel e Celulose
+262,KLBN3,KLABIN ON N2,Madeira e Papel,Papel e Celulose
+263,KLBN4,KLABIN PN N2,Madeira e Papel,Papel e Celulose
+264,KLBN11,KLABIN UNT N2,Madeira e Papel,Papel e Celulose
+265,SUZB3,Suzano Papel ON,Madeira e Papel,Papel e Celulose
+266,TASA3,TAURUS ARMAS ON,Máquinas e Equipamentos,Armas e Munições
+267,TASA4,TAURUS ARMAS PN,Máquinas e Equipamentos,Armas e Munições
+268,MTSA4,METISA PN,Máquinas e Equipamentos,Máq. e Equip. Construção e Agrícolas
+269,AERI3,AERIS ON NM,Máquinas e Equipamentos,Máq. e Equip. Industriais
+270,BDLL3,BAEDELLA ON,Máquinas e Equipamentos,Máq. e Equip. Industriais
+271,BDLL4,BAEDELLA PN,Máquinas e Equipamentos,Máq. e Equip. Industriais
+272,EALT3,ELECTRO AÇO ALTONA S/A ON,Máquinas e Equipamentos,Máq. e Equip. Industriais
+273,EALT4,ELECTRO AÇO ALTONA S/A PN,Máquinas e Equipamentos,Máq. e Equip. Industriais
+274,INEP3,INEPAR S/A ON,Máquinas e Equipamentos,Máq. e Equip. Industriais
+275,INEP4,INEPAR S/A PN,Máquinas e Equipamentos,Máq. e Equip. Industriais
+276,KEPL3,KEPLER WEBER SA ON,Máquinas e Equipamentos,Máq. e Equip. Industriais
+277,NORD3,NORDON INDS METALURGICAS SA ON,Máquinas e Equipamentos,Máq. e Equip. Industriais
+278,ROMI3,ROMI ON,Máquinas e Equipamentos,Máq. e Equip. Industriais
+279,SHUL4,SCHULZ PN,Máquinas e Equipamentos,"Motores, Compressores e Outros"
+280,WEGE3,WEG SA ON N1,Máquinas e Equipamentos,"Motores, Compressores e Outros"
+281,SNSY5,SANSUY S.A. INDÚSTRIA DE PLÁSTICOS PNA,Materiais Diversos,Materiais Diversos
+282,EMBR3,EMBRAER ON,Material de Transporte,Material Aeronáutico e de Defesa
+283,FRAS3,FRAS-LE S.A. ON,Material de Transporte,Material Rodoviário
+284,POMO3,MARCOPOLO ON,Material de Transporte,Material Rodoviário
+285,POMO4,MARCOPOLO PN N2,Material de Transporte,Material Rodoviário
+286,RSUL4,METALURGICA RIOSULENSE S/A PN,Material de Transporte,Material Rodoviário
+287,RAPT3,RANDON S.A. IMPLEMENTOS E PARTICIPAÇÕES ON N1,Material de Transporte,Material Rodoviário
+288,RAPT4,RANDON S.A. IMPLEMENTOS E PARTICIPAÇÕES PN N1,Material de Transporte,Material Rodoviário
+289,RCSL3,RECRUSUL ON,Material de Transporte,Material Rodoviário
+290,RCSL4,RECRUSUL PN,Material de Transporte,Material Rodoviário
+291,TUPY3,TUPY ON,Material de Transporte,Material Rodoviário
+292,MWET3,WETZEL S.A. ON,Material de Transporte,Material Rodoviário
+293,MWET4,WETZEL S.A. PN,Material de Transporte,Material Rodoviário
+294,BIOM3,BIOMM SA ON,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+295,OFSA3,OUROFINO S/A ON NM,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+296,ELMD3,ELETROMIDIA ON NM,Mídia,Publicidade e Propaganda
+297,AURA33,AURA 360 DR3,Mineração,Minerais Metálicos
+298,BRAP3,BRADESPAR S/A ON N1,Mineração,Minerais Metálicos
+299,BRAP4,BRADESPAR S/A PN N1,Mineração,Minerais Metálicos
+300,CBAV3,CBA ON NM,Mineração,Minerais Metálicos
+301,CMIN3,CSNMINERACAO ON N2,Mineração,Minerais Metálicos
+302,VALE3,VALE ON NM,Mineração,Minerais Metálicos
+303,ATOM3,ATOMPAR ON,Outros,Outros
+304,BLUT3,B TECH EQI ON,Outros,Outros
+305,BLUT4,B TECH EQI PN,Outros,Outros
+306,MAPT4,CIA MARCOPOLO PN,Outros,Outros
+307,JBDU3,J B DUARTE ON,Outros,Outros
+308,JBDU4,J B DUARTE PN,Outros,Outros
+309,LUPA3,LUPATECH ON NM,"Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços
+310,OPCT3,OCEANPACT ON NM,"Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços
+311,OSXB3,OSX BRASIL ON NM,"Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços
+312,RRRP3,3R PETROLEUM ON NM,"Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+313,CSAN3,COSAN SA INDUSTRIA E COMERCIO ON,"Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+314,DMMO3,DOMMO ON,"Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+315,ENAT3,ENAUTA PART ON,"Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+316,BRDT3,PETROBRAS BR ON NM,"Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+317,PETR3,PETROBRAS ON,"Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+318,PETR4,PETROBRAS PN,"Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+319,RECV3,PETRORECONCA ON NM,"Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+320,PRIO3,PETRORIO ON,"Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+321,RAIZ4,RAIZEN PN N2,"Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+322,RPMG3,REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A ON,"Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+323,UGPA3,ULTRAPAR PARTICIPAÇÕES SA ON,"Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+324,VBBR3,VIBRA ON,"Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+325,APER3,ALPER S.A. ON,Previdência e Seguros,Corretoras de Seguros
+326,WIZS3,WIZ S.A. ON NM,Previdência e Seguros,Corretoras de Seguros
+327,BBSE3,BBSEGURIDADE ON NM,Previdência e Seguros,Seguradoras
+328,CXSE3,CAIXA SEGURI ON NM,Previdência e Seguros,Seguradoras
+329,BRGE8,CONSORCIO ALFA PND,Previdência e Seguros,Seguradoras
+330,BRGE12,CONSORCIO ALFA PNF,Previdência e Seguros,Seguradoras
+331,IRBR3,IRBBRASIL RE ON NM,Previdência e Seguros,Seguradoras
+332,PSSA3,PORTO SEGURO SA ON,Previdência e Seguros,Seguradoras
+333,SULA3,Sul America ON N2,Previdência e Seguros,Seguradoras
+334,SULA4,Sul America PN,Previdência e Seguros,Seguradoras
+335,SULA11,Sul America UNT N2,Previdência e Seguros,Seguradoras
+336,BOBR4,BOMBRIL SA PN,Produtos de Uso Pessoal e de Limpeza,Produtos de Limpeza
+337,NTCO3,GRUPO NATURA ON NM,Produtos de Uso Pessoal e de Limpeza,Produtos de Uso Pessoal
+338,BMOB3,BEMOBI TECH ON NM,Programas e Serviços,Programas e Serviços
+339,ENJU3,ENJOEI ON NM,Programas e Serviços,Programas e Serviços
+340,NINJ3,GETNINJAS ON NM,Programas e Serviços,Programas e Serviços
+341,IFCM3,INFRACOMM ON NM,Programas e Serviços,Programas e Serviços
+342,LWSA3,LOCAWEB ON NM,Programas e Serviços,Programas e Serviços
+343,CASH3,MELIUZ ON NM,Programas e Serviços,Programas e Serviços
+344,MBLY3,MOBLY ON NM,Programas e Serviços,Programas e Serviços
+345,MOSI3,MOSAICO SA ON NM,Programas e Serviços,Programas e Serviços
+346,NGRD3,NEOGRID ON NM,Programas e Serviços,Programas e Serviços
+347,SQIA3,SINQIA ON,Programas e Serviços,Programas e Serviços
+348,TRAD3,TC ON NM,Programas e Serviços,Programas e Serviços
+349,TOTS3,TOTVS ON NM,Programas e Serviços,Programas e Serviços
+350,LVTC3,WDC NETWORKS ON NM,Programas e Serviços,Programas e Serviços
+351,WEST3,WESTWING ON NM,Programas e Serviços,Programas e Serviços
+352,FHER3,Fer Heringer ON NM,Químicos,Fertilizantes e Defensivos
+353,NUTR3,NUTRIPLANT ON,Químicos,Fertilizantes e Defensivos
+354,VITT3,VITTIA ON NM,Químicos,Fertilizantes e Defensivos
+355,BRKM3,BRASKEM ON N1,Químicos,Petroquímicos
+356,BRKM5,BRASKEM PNA N1,Químicos,Petroquímicos
+357,BRKM6,BRASKEM PNB N1,Químicos,Petroquímicos
+358,DEXP3,DEXXOS PAR ON,Químicos,Petroquímicos
+359,DEXP4,DEXXOS PAR PN,Químicos,Petroquímicos
+360,CRPG3,CRISTAL ON,Químicos,Químicos Diversos
+361,CRPG5,CRISTAL PNA,Químicos,Químicos Diversos
+362,CRPG6,CRISTAL PNB,Químicos,Químicos Diversos
+363,UNIP3,UNIPAR PARTICIPAÇÕES S.A. ON,Químicos,Químicos Diversos
+364,UNIP5,UNIPAR PARTICIPAÇÕES S.A. PNA,Químicos,Químicos Diversos
+365,UNIP6,UNIPAR PARTICIPAÇÕES S.A. PNB,Químicos,Químicos Diversos
+366,ATMP3,ATMASA ON,Serviços Diversos,Serviços Diversos
+367,CARD3,CSU CARDSYST ON NM,Serviços Diversos,Serviços Diversos
+368,DTCY3,DTCOM ON,Serviços Diversos,Serviços Diversos
+369,ALPK3,ESTAPAR ON NM,Serviços Diversos,Serviços Diversos
+370,GGPS3,GPS ON NM,Serviços Diversos,Serviços Diversos
+371,PRNR3,PRINER ON NM,Serviços Diversos,Serviços Diversos
+372,SEQL3,SEQUOIA LOG ON NM,Serviços Diversos,Serviços Diversos
+373,VLID3,VALID ON NM,Serviços Diversos,Serviços Diversos
+374,GPIV33,"GP INVESTMENTS, LTD DR3",Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+375,PDTC3,PADTEC ON,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+376,B3SA3,B3 ON,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+377,BOAS3,BOA VISTA ON NM,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+378,CIEL3,CIELO ON NM,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+379,CLSA3,CLEARSALE ON NM,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+380,GETT3,GETNET BR ON,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+381,GETT4,GETNET BR PN,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+382,AALR3,ALLIAR ON NM,Serv.Méd.Hospit. Análises e Diagnósticos,Serv.Méd.Hospit. Análises e Diagnósticos
+383,DASA3,DIAGNOSTICOS DA AMERICA SA ON,Serv.Méd.Hospit. Análises e Diagnósticos,Serv.Méd.Hospit. Análises e Diagnósticos
+384,FLRY3,FLEURY ON NM,Serv.Méd.Hospit. Análises e Diagnósticos,Serv.Méd.Hospit. Análises e Diagnósticos
+385,HAPV3,HAPVIDA ON NM,Serv.Méd.Hospit. Análises e Diagnósticos,Serv.Méd.Hospit. Análises e Diagnósticos
+386,PARD3,IHPARDINI ON NM,Serv.Méd.Hospit. Análises e Diagnósticos,Serv.Méd.Hospit. Análises e Diagnósticos
+387,GNDI3,INTERMEDICA ON NM,Serv.Méd.Hospit. Análises e Diagnósticos,Serv.Méd.Hospit. Análises e Diagnósticos
+388,KRSA3,KORA SAUDE ON NM,Serv.Méd.Hospit. Análises e Diagnósticos,Serv.Méd.Hospit. Análises e Diagnósticos
+389,MATD3,MATER DEI ON NM,Serv.Méd.Hospit. Análises e Diagnósticos,Serv.Méd.Hospit. Análises e Diagnósticos
+390,ODPV3,ODONTOPREV ON NM,Serv.Méd.Hospit. Análises e Diagnósticos,Serv.Méd.Hospit. Análises e Diagnósticos
+391,ONCO3,ONCOCLINICAS ON NM,Serv.Méd.Hospit. Análises e Diagnósticos,Serv.Méd.Hospit. Análises e Diagnósticos
+392,QUAL3,QUALICORP ON NM,Serv.Méd.Hospit. Análises e Diagnósticos,Serv.Méd.Hospit. Análises e Diagnósticos
+393,RDOR3,REDE D OR ON NM,Serv.Méd.Hospit. Análises e Diagnósticos,Serv.Méd.Hospit. Análises e Diagnósticos
+394,PMAM3,PARANAPANEMA S.A. ON,Siderurgia e Metalurgia,Artefatos de Cobre
+395,MGEL4,MANGELS PN N1,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+396,PATI3,PANATLANTICA ON,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+397,PATI4,PANATLANTICA PN,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+398,TKNO4,TEKNO PN,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+399,CSNA3,CSN ON,Siderurgia e Metalurgia,Siderurgia
+400,FESA3,FERBASA ON,Siderurgia e Metalurgia,Siderurgia
+401,FESA4,FERBASA PN,Siderurgia e Metalurgia,Siderurgia
+402,GGBR3,GERDAU S.A. ON N1,Siderurgia e Metalurgia,Siderurgia
+403,GGBR4,GERDAU S.A. PN N1,Siderurgia e Metalurgia,Siderurgia
+404,GOAU3,METALÚRGICA GERDAU ON N1,Siderurgia e Metalurgia,Siderurgia
+405,GOAU4,METALÚRGICA GERDAU PN N1,Siderurgia e Metalurgia,Siderurgia
+406,USIM3,USIMINAS ON N1,Siderurgia e Metalurgia,Siderurgia
+407,USIM5,USIMINAS PNA N1,Siderurgia e Metalurgia,Siderurgia
+408,USIM6,USIMINAS PNB N1,Siderurgia e Metalurgia,Siderurgia
+409,MNDL3,MUNDIAL S/A ON,"Tecidos, Vestuário e Calçados",Acessórios
+410,TECN3,TECHNOS ON NM,"Tecidos, Vestuário e Calçados",Acessórios
+411,VIVA3,VIVARA S.A. ON NM,"Tecidos, Vestuário e Calçados",Acessórios
+412,ALPA3,ALPARGATAS ON N1,"Tecidos, Vestuário e Calçados",Calçados
+413,ALPA4,ALPARGATAS PN N1,"Tecidos, Vestuário e Calçados",Calçados
+414,GRND3,GRENDENE SA ON,"Tecidos, Vestuário e Calçados",Calçados
+415,CAMB3,PENALTY ON,"Tecidos, Vestuário e Calçados",Calçados
+416,VULC3,VULCABRAS S/A. ON,"Tecidos, Vestuário e Calçados",Calçados
+417,CEDO3,CIA. DE FIAÇÃO E TECIDOS CEDRO CACHOEIRA ON,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+418,CEDO4,CIA. DE FIAÇÃO E TECIDOS CEDRO CACHOEIRA PN,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+419,CTNM3,COTEMINAS ON,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+420,CTNM4,COTEMINAS PN,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+421,DOHL3,DOHLER ON,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+422,DOHL4,DOHLER PN,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+423,CTKA3,KARSTEN ON,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+424,CTKA4,KARSTEN PN,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+425,PTNT3,PETTENATI ON,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+426,PTNT4,PETTENATI PN,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+427,TXRX3,RENAUX ON,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+428,TXRX4,RENAUX PN,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+429,CTSA3,SANTANENSE ON,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+430,CTSA4,SANTANENSE PN,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+431,SGPS3,Springs ON NM,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+432,TEKA4,TEKA S.A. PN,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+433,HGTX3,CIA HERING ON N1,"Tecidos, Vestuário e Calçados",Vestuário
+434,TFCO4,TRACK FIELD PN,"Tecidos, Vestuário e Calçados",Vestuário
+435,BRIT3,BRISANET ON NM,Telecomunicações,Telecomunicações
+436,DESK3,DESKTOPSIGMA ON NM,Telecomunicações,Telecomunicações
+437,OIBR3,OI ON N1,Telecomunicações,Telecomunicações
+438,OIBR4,OI ON N1,Telecomunicações,Telecomunicações
+439,TELB3,TELEBRAS ON,Telecomunicações,Telecomunicações
+440,TELB4,TELEBRAS PN,Telecomunicações,Telecomunicações
+441,VIVT3,TELEF BRASIL ON,Telecomunicações,Telecomunicações
+442,TIMS3,TIM ON NM,Telecomunicações,Telecomunicações
+443,FIQE3,UNIFIQUE ON NM,Telecomunicações,Telecomunicações
+444,CCRO3,COMPANHIA DE CONCESSÕES RODOVIÁRIAS ON NM,Transporte,Exploração de Rodovias
+445,ECOR3,ECORODOVIAS ON NM,Transporte,Exploração de Rodovias
+446,TPIS3,TRIUNFO PARTICIPACOES SA ON NM,Transporte,Exploração de Rodovias
+447,STBP3,SBPAR ON NM,Transporte,Serviços de Apoio e Armazenagem
+448,WSON33,Wilson Sons DR3,Transporte,Serviços de Apoio e Armazenagem
+449,PORT3,WILSON SONS ON NM,Transporte,Serviços de Apoio e Armazenagem
+450,AZUL4,AZUL PN,Transporte,Transporte Aéreo
+451,GOLL4,GOL LINHAS AEREAS INTELIGENTES SA PN,Transporte,Transporte Aéreo
+452,RAIL3,RUMO S.A. ON NM,Transporte,Transporte Ferroviário
+453,HBSA3,HIDROVIAS ON NM,Transporte,Transporte Hidroviário
+454,LOGN3,Log-In ON NM,Transporte,Transporte Hidroviário
+455,LUXM4,TREVISA INVESTIMENTOS SA PN,Transporte,Transporte Hidroviário
+456,JSLG3,JULIO SIMOES ON NM,Transporte,Transporte Rodoviário
+457,TGMA3,Tegma ON NM,Transporte,Transporte Rodoviário
+458,WHRL3,WHIRLPOOL S.A. ON,Utilidades Domésticas,Eletrodomésticos
+459,WHRL4,WHIRLPOOL S.A. PN,Utilidades Domésticas,Eletrodomésticos
+460,UCAS3,UNICASA ON NM,Utilidades Domésticas,Móveis
+461,HETA3,HERCULES S/A ON,Utilidades Domésticas,Utensílios Domésticos
+462,HETA4,HERCULES S/A PN,Utilidades Domésticas,Utensílios Domésticos
+463,SMFT3,SMART FIT ON NM,Viagens e Lazer,Atividades Esportivas
+464,BMKS3,MONARK ON,Viagens e Lazer,Bicicletas
+465,ESTR4,ESTRELA PN,Viagens e Lazer,Brinquedos e Jogos
+466,AHEB3,PARQUE ANHEMBI ON,Viagens e Lazer,Produção de Eventos e Shows
+467,SHOW3,TIME FOR FUN ON NM,Viagens e Lazer,Produção de Eventos e Shows
+468,CVCB3,CVC BRASIL ON NM,Viagens e Lazer,Viagens e Turismo
