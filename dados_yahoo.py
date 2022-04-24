@@ -39,8 +39,27 @@ print(l_setor)
 print('-'*69)
 print(l_sub)
 
-df_t = df.query('setor == "Agropecuária"')['papel']
+#df_t = df.query('subsetor == "Bancos"')['papel']
+df_t = df['papel']
 pp = lista_item(df_t)
+
+list_del = {'WSON33',
+'JBDU4',
+'HGTX3',
+'BAHI11',
+'LAME3',
+'OMGE3',
+'BRDT3',
+'JBDU3',
+'IGTA3',
+'GNDI3',
+'LAME4',
+'JPSA3'}
+
+cpp = set(pp)
+cpp2 = cpp.difference(list_del)
+npp = list(cpp2)
+pp = sorted(npp)
 
 #print('-'*69)
 #print(df_t)
@@ -53,22 +72,22 @@ n = len(pp)
 local = os.getcwd()
 
 if B3 ==1:
-    for k in range(n-1):
+    for k in range(n):
         pp[k] += '.SA'
 
-pp = ['^BVSP'] + pp
-print(pp)
+pp = ['^BVSP'] + sorted(pp)
+
 hj = dtm.today()
 ano = hj.year
 mes = hj.month
 dia = hj.day
 
-d_1 = dtm(ano-1, mes, dia)
+d_1 = dtm(ano-5, mes, dia)
 #para pegar dados dos últimos 365 dias-------------------------------------
-#papeis = yf.download(pp,start = d_1, end = hj, group_by = 'ticker')
+papeis = yf.download(pp,start = d_1, end = hj, group_by = 'ticker')
 #--------------------------------------------------------------------------
 
-papeis = yf.download(pp,period = '1mo', group_by = 'ticker')
+#papeis = yf.download(pp,period = '1mo', group_by = 'ticker')
 
 
 df_adj = pd.DataFrame()
@@ -76,7 +95,7 @@ n = 0
 for papel in pp:
     df_adj.insert(n,papel, papeis[papel]['Adj Close'])
     n += 1
-
+'''
 print('----valores\n')
 print('-' * 70)
 print(df_adj)
@@ -93,5 +112,6 @@ print(df_index)
 print('----correlação\n')
 print('-' * 70)
 print(df_index.corr())
+'''
 df_adj.to_csv(local + '//df_adj.csv')
-df_index.to_csv(local + '//df_index.csv')
+#df_index.to_csv(local + '//df_index.csv')
