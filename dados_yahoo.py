@@ -16,7 +16,6 @@ df.to_csv('base_ticker.csv')
 #------------------------------------------------------------------------------------------------------------
 '''
 
-
 #pp = ['ITUB3', 'ITUB4', 'ITSA3', 'ITSA4', '^BVSP']
 #pp = ['BTC-USD','ETH-USD','SHIB-USD','DOGE-USD','ADA-USD','XRP-USD','MATIC-USD','SOL-USD','CRO-USD','MANA-USD','LRC-USD','^BVSP']
 df = pd.read_csv('base_ticker.csv')
@@ -61,11 +60,6 @@ cpp2 = cpp.difference(list_del)
 npp = list(cpp2)
 pp = sorted(npp)
 
-#print('-'*69)
-#print(df_t)
-#print('-'*69)
-#print(lt)
-
 B3 = 1
 n = len(pp)
 
@@ -77,25 +71,28 @@ if B3 ==1:
 
 pp = ['^BVSP'] + sorted(pp)
 
+
+#para pegar dados dos últimos 365 dias (ano - 1)---------------------------
 hj = dtm.today()
 ano = hj.year
 mes = hj.month
 dia = hj.day
 
 d_1 = dtm(ano-5, mes, dia)
-#para pegar dados dos últimos 365 dias-------------------------------------
 papeis = yf.download(pp,start = d_1, end = hj, group_by = 'ticker')
 #--------------------------------------------------------------------------
 
+#para pegar dados dos por período (1mo = 1 mes; 3mo = 3 meses; etc)--------
 #papeis = yf.download(pp,period = '1mo', group_by = 'ticker')
+#--------------------------------------------------------------------------
 
 
 df_adj = pd.DataFrame()
-n = 0
+n = 0S
 for papel in pp:
     df_adj.insert(n,papel, papeis[papel]['Adj Close'])
     n += 1
-'''
+
 print('----valores\n')
 print('-' * 70)
 print(df_adj)
@@ -112,6 +109,6 @@ print(df_index)
 print('----correlação\n')
 print('-' * 70)
 print(df_index.corr())
-'''
+
 df_adj.to_csv(local + '//df_adj.csv')
-#df_index.to_csv(local + '//df_index.csv')
+df_index.to_csv(local + '//df_index.csv')
