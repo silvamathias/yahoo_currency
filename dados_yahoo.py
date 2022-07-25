@@ -3,7 +3,7 @@ import pandas as pd
 import datetime as dt
 from datetime import datetime as dtm
 import os
-'''
+
 #------------------------------------------------------------------------------------------------------------
 #---Faz o download do db da tabela com os papeis separados por setor e subsetor segundo o site sundamentus
 import dbpg as db
@@ -14,7 +14,7 @@ df = sql.cons_pandas(query)
 
 df.to_csv('base_ticker.csv')
 #------------------------------------------------------------------------------------------------------------
-'''
+
 
 #pp = ['ITUB3', 'ITUB4', 'ITSA3', 'ITSA4', '^BVSP']
 #pp = ['BTC-USD','ETH-USD','SHIB-USD','DOGE-USD','ADA-USD','XRP-USD','MATIC-USD','SOL-USD','CRO-USD','MANA-USD','LRC-USD','^BVSP']
@@ -88,7 +88,7 @@ papeis = yf.download(pp,start = d_1, end = hj, group_by = 'ticker')
 
 
 df_adj = pd.DataFrame()
-n = 0S
+n = 0
 for papel in pp:
     df_adj.insert(n,papel, papeis[papel]['Adj Close'])
     n += 1
