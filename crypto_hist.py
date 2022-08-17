@@ -23,6 +23,6 @@ while k == 0:
         dado.append(vlr['Close'][0])
         dados += [dado]
         df = pd.DataFrame(np.array(dados), columns = col)
-
+#
     df.to_csv(local + 'base_cur.csv', index = False, header = False, mode = 'a')
     tm.sleep(57)
