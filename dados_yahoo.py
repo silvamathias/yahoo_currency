@@ -4,63 +4,10 @@ import datetime as dt
 from datetime import datetime as dtm
 import os
 
-#------------------------------------------------------------------------------------------------------------
-#---Faz o download do db da tabela com os papeis separados por setor e subsetor segundo o site sundamentus
-import dbpg as db
-query = 'select * from vw_seg_web;'
-sql = db.conectar()
-
-df = sql.cons_pandas(query)
-
-df.to_csv('base_ticker.csv')
-#------------------------------------------------------------------------------------------------------------
+pp = ['BTC-USD','ETH-USD','DOGE-USD','SHIB-USD','BRL=X','EURBRL=X','EUR=X']
 
 
-#pp = ['ITUB3', 'ITUB4', 'ITSA3', 'ITSA4', '^BVSP']
-#pp = ['BTC-USD','ETH-USD','SHIB-USD','DOGE-USD','ADA-USD','XRP-USD','MATIC-USD','SOL-USD','CRO-USD','MANA-USD','LRC-USD','^BVSP']
-df = pd.read_csv('base_ticker.csv')
-
-#print(df)
-
-df_setor = df['setor']
-
-df_sub = df['subsetor']
-
-df_setor = df_setor.drop_duplicates()
-df_sub = df_sub.drop_duplicates()
-#print(df_setor)
-
-lista_item = lambda df_list: [item for item in df_list]
-
-l_setor = lista_item(df_setor)
-l_sub = lista_item(df_sub)
-print(l_setor)
-print('-'*69)
-print(l_sub)
-
-#df_t = df.query('subsetor == "Bancos"')['papel']
-df_t = df['papel']
-pp = lista_item(df_t)
-
-list_del = {'WSON33',
-'JBDU4',
-'HGTX3',
-'BAHI11',
-'LAME3',
-'OMGE3',
-'BRDT3',
-'JBDU3',
-'IGTA3',
-'GNDI3',
-'LAME4',
-'JPSA3'}
-
-cpp = set(pp)
-cpp2 = cpp.difference(list_del)
-npp = list(cpp2)
-pp = sorted(npp)
-
-B3 = 1
+B3 = 0
 n = len(pp)
 
 local = os.getcwd()
@@ -69,7 +16,7 @@ if B3 ==1:
     for k in range(n):
         pp[k] += '.SA'
 
-pp = ['^BVSP'] + sorted(pp)
+#pp = ['^BVSP'] + sorted(pp)
 
 
 #para pegar dados dos últimos 365 dias (ano - 1)---------------------------
@@ -78,7 +25,7 @@ ano = hj.year
 mes = hj.month
 dia = hj.day
 
-d_1 = dtm(ano-5, mes, dia)
+d_1 = dtm(ano, mes-3, dia)
 papeis = yf.download(pp,start = d_1, end = hj, group_by = 'ticker')
 #--------------------------------------------------------------------------
 
