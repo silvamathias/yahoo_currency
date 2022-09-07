@@ -1,17 +1,16 @@
 # Yahoo_Currency
 
-1. [media_movel.py](#media_movel)
-2. [crypto_hist.py](#crypto_hist)
-3. [dados_yahoo.py](#dados_yahoo)
-4. [calc_carteira.py](#calc_carteira)
-
-
 ## Descrição:
 
 Este repositório usa unicamente os dados do [Yahoo Finance](https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD) através da biblioteca [yfinance](https://pypi.org/project/yfinance/)
 
 
 ## Principais arquivos
+
+1. [media_movel.py](#media_movel)
+2. [crypto_hist.py](#crypto_hist)
+3. [dados_yahoo.py](#dados_yahoo)
+4. [calc_carteira.py](#calc_carteira)
 
 <a id="media_movel"></a>
 
