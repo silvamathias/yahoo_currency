@@ -1,8 +1,17 @@
 # Yahoo_Currency
 
+[media_movel.py](#media_movel)
+[crypto_hist.py](#crypto_hist)
+[dados_yahoo.py](#dados_yahoo)
+[calc_carteira.py](#calc_carteira)
+
+
 ## Descrição:
 
 Este repositório usa unicamente os dados do [Yahoo Finance](https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD) através da biblioteca [yfinance](https://pypi.org/project/yfinance/)
+
+
+## Principais arquivos
 
 
 ### media_movel.py
@@ -80,6 +89,8 @@ papeis = yf.download(pp,start = d_1, end = hj, group_by = 'ticker')
 #papeis = yf.download(pp,period = '1mo', group_by = 'ticker')
 #--------------------------------------------------------------------------
 ~~~
+
+(<a>calc_carteira</a>)
 
 ### calc_carteira.py
 
