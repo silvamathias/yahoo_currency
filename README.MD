@@ -1,9 +1,9 @@
 # Yahoo_Currency
 
-[media_movel.py](#media_movel)
-[crypto_hist.py](#crypto_hist)
-[dados_yahoo.py](#dados_yahoo)
-[calc_carteira.py](#calc_carteira)
+1. [media_movel.py](#media_movel)
+2. [crypto_hist.py](#crypto_hist)
+3. [dados_yahoo.py](#dados_yahoo)
+4. [calc_carteira.py](#calc_carteira)
 
 
 ## Descrição:
@@ -13,6 +13,7 @@ Este repositório usa unicamente os dados do [Yahoo Finance](https://finance.yah
 
 ## Principais arquivos
 
+<a id="media_movel"></a>
 
 ### media_movel.py
 
@@ -41,6 +42,8 @@ Configure os períodos da média móvel em `medias = [2,3,4,5]`
 
 Uma sugestão para este trecho é `medias = [5,7,10,15,30,60]`
 
+<a id="crypto_hist"></a>
+
 ### crypto_hist.py
 
 #### Para que serve?
@@ -59,6 +62,7 @@ Informe os segundo que deseja de intervalo entre as consultas em `tm.sleep(57)`
 
 No trecho acima os dados são baixados a cada 57 segundos
 
+<a id="dados_yahoo"></a>
 
 ### dados_yahoo.py
 
@@ -90,7 +94,7 @@ papeis = yf.download(pp,start = d_1, end = hj, group_by = 'ticker')
 #--------------------------------------------------------------------------
 ~~~
 
-(<a>calc_carteira</a>)
+<a id="calc_carteira"></a>
 
 ### calc_carteira.py
 
