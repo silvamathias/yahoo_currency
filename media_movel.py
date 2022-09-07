@@ -1,7 +1,5 @@
 import pandas as pd
-#import dbpg as db
 import matplotlib.pyplot as plt
-
 import yfinance as yf
 import pandas as pd 
 import datetime as dt
@@ -21,13 +19,14 @@ else:
     for k in range(n):
         pp[k] += '-USD'
 
-#print(pp)
 hj = dtm.today()
 ano = hj.year
 mes = hj.month
 dia = hj.day
 
+#exemplo: para pegar dados dos últimos 5 anos (ano - 5); para últimos 5 mesês (mes - 5); para últimos 5 dias (dia - 5)
 d_1 = dtm(ano-1, mes, dia)
+
 #>>>>caso queira usar período inicial e final<<<<-------------------------------
 #papeis = yf.download(pp,start = d_1, end = hj, group_by = 'ticker')
 #-------------------------------------------------------------------------------

@@ -6,29 +6,29 @@ import os
 
 pp = ['BTC-USD','ETH-USD','DOGE-USD','SHIB-USD','BRL=X','EURBRL=X','EUR=X']
 
+#caso queira incluir o índice bovespa
+#pp = ['^BVSP'] + sorted(pp)
 
+#caso pp só tenha empresas listadas na B3 será necessário incluir '.SA', para isto use 'B3 = 1'
 B3 = 0
-n = len(pp)
-
-local = os.getcwd()
-
 if B3 ==1:
     for k in range(n):
         pp[k] += '.SA'
 
-#pp = ['^BVSP'] + sorted(pp)
+n = len(pp)
 
-
-#para pegar dados dos últimos 365 dias (ano - 1)---------------------------
+local = os.getcwd()
+#----dados por data--------------------------------------------------------
 hj = dtm.today()
 ano = hj.year
 mes = hj.month
 dia = hj.day
 
-d_1 = dtm(ano, mes-3, dia)
+#exemplo: para pegar dados dos últimos 5 anos (ano - 5); para últimos 5 mesês (mes - 5); para últimos 5 dias (dia - 5)
+d_1 = dtm(ano, mes - 3, dia)
 papeis = yf.download(pp,start = d_1, end = hj, group_by = 'ticker')
 #--------------------------------------------------------------------------
-
+#----dados por período-----------------------------------------------------
 #para pegar dados dos por período (1mo = 1 mes; 3mo = 3 meses; etc)--------
 #papeis = yf.download(pp,period = '1mo', group_by = 'ticker')
 #--------------------------------------------------------------------------
